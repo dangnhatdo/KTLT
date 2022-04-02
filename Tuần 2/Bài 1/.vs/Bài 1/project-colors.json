@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c9b63829-ec43-4a78-9144-3802f2e20809": {
+      "ProjectGuid": "c9b63829-ec43-4a78-9144-3802f2e20809",
+      "DisplayName": "Bài 1",
+      "ColorIndex": 0
+    },
+    "065a8e5a-2a06-4b45-aaa0-6d0357cfe8ed": {
+      "ProjectGuid": "065a8e5a-2a06-4b45-aaa0-6d0357cfe8ed",
+      "DisplayName": "Bài 2",
+      "ColorIndex": 1
+    },
+    "7cdde05b-16d6-417d-8ec8-700267991090": {
+      "ProjectGuid": "7cdde05b-16d6-417d-8ec8-700267991090",
+      "DisplayName": "Bài 3",
+      "ColorIndex": 2
+    },
+    "5fbf70d4-efc2-4a86-ab09-2a8a50797a88": {
+      "ProjectGuid": "5fbf70d4-efc2-4a86-ab09-2a8a50797a88",
+      "DisplayName": "Bài 6",
+      "ColorIndex": 3
+    },
+    "d88fd227-5e24-4538-b129-1ac31b38b900": {
+      "ProjectGuid": "d88fd227-5e24-4538-b129-1ac31b38b900",
+      "DisplayName": "Bài 4",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
