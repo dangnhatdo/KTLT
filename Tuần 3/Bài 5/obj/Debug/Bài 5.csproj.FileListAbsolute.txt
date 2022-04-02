@@ -1,0 +1,7 @@
+D:\GitHub\BT-KTLT\Tuần 2\Bài 5\bin\Debug\Bài 5.exe.config
+D:\GitHub\BT-KTLT\Tuần 2\Bài 5\bin\Debug\Bài 5.exe
+D:\GitHub\BT-KTLT\Tuần 2\Bài 5\bin\Debug\Bài 5.pdb
+D:\GitHub\BT-KTLT\Tuần 2\Bài 5\obj\Debug\Bài 5.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\BT-KTLT\Tuần 2\Bài 5\obj\Debug\Bài 5.csproj.CoreCompileInputs.cache
+D:\GitHub\BT-KTLT\Tuần 2\Bài 5\obj\Debug\Bài 5.exe
+D:\GitHub\BT-KTLT\Tuần 2\Bài 5\obj\Debug\Bài 5.pdb
