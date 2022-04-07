@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a32d9b1b-b98f-4672-b94e-cd3d74a7260a": {
+      "ProjectGuid": "a32d9b1b-b98f-4672-b94e-cd3d74a7260a",
+      "DisplayName": "Bài 1",
+      "ColorIndex": 0
+    },
+    "e6dd62da-b3e7-4f1b-9f88-ca01a8d09730": {
+      "ProjectGuid": "e6dd62da-b3e7-4f1b-9f88-ca01a8d09730",
+      "DisplayName": "Bài 2",
+      "ColorIndex": 1
+    },
+    "718244ea-3a9a-42ec-884b-6cff572a8511": {
+      "ProjectGuid": "718244ea-3a9a-42ec-884b-6cff572a8511",
+      "DisplayName": "Bài 3",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
