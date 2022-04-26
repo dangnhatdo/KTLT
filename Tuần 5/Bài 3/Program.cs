@@ -24,7 +24,7 @@ namespace Bài_3
         }
         static void Try(int i)
         {
-            for (int j = ToHop[i - 1]; j <= n - k + i; j++)
+            for (int j = ToHop[i - 1]; j <= n; j++)
             {
                 if (Check[j] == true)
                 {
