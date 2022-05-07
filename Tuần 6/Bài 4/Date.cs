@@ -32,7 +32,7 @@ namespace Bài_4
             get{return month;}
             set
             {
-                if(month < 1 || month > 12)
+                if(value < 1 || value > 12)
                 {
                     Console.WriteLine("Thang khong hop le");
                     this.month = 1;
@@ -48,7 +48,7 @@ namespace Bài_4
             get{return year;}
             set
             {
-                if(year < 1900 || year > 9999)
+                if(value < 1900 || value > 9999)
                 {
                     Console.WriteLine("Nam khong hop le");
                     this.year = 1900;
