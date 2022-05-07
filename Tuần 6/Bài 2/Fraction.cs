@@ -21,7 +21,7 @@ namespace Bài_2
             get { return denominator; }
             set
             {
-                if (denominator == 0)
+                if (value == 0)
                 {
                     this.denominator = 1;
                 }
